@@ -1,12 +1,3 @@
-clean
-play chess
-make pizza
-meet
-cricket day
-do dishes
-clean
-add a team
-make soup
+meet friends
+cook meal
 clean room
-cook food
-meet at 2
